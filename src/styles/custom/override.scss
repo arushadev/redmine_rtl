@@ -1,0 +1,38 @@
+#sidebar-switch-panel {
+    margin-left: inherit !important;
+    margin-right: -20px !important;
+    padding-left: 28px !important;
+    padding-right: inherit !important;
+}
+
+#sidebar-switch-button  {
+    padding-left: 28px;
+    padding-right: 0;
+}
+
+#sidebar-switch-button svg {
+    transform: rotate(180deg);
+}
+
+#sidebar {
+    padding-left: 8px;
+    padding-right: 20px;
+}
+
+div.issue .attributes .attribute .label {
+    margin-left: inherit;
+    margin-right: 0;
+    float: right;
+}
+
+.issue-card {
+    text-align: right !important;
+}
+
+tr.time-entry td.issue, tr.time-entry td.comments, tr.time-entry td.subject, tr.time-entry td.activity, tr.time-entry td.project {
+    text-align: right  !important;
+}
+
+table.time-entries td.hours {
+    text-align: left  !important;
+}
