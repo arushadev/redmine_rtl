@@ -36,3 +36,10 @@ tr.time-entry td.issue, tr.time-entry td.comments, tr.time-entry td.subject, tr.
 table.time-entries td.hours {
     text-align: left  !important;
 }
+
+#wrapper select, .modal select {
+    background-position: 5% 50%;
+    background-position: 2% 50%;
+    padding-right: 0.5rem;
+    padding-left: 5%;
+}
